@@ -1,0 +1,14 @@
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\obj\Debug\net9.0\ContactAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\obj\Debug\net9.0\ContactAgenda.AssemblyInfoInputs.cache
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\obj\Debug\net9.0\ContactAgenda.AssemblyInfo.cs
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\obj\Debug\net9.0\ContactAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\bin\Debug\net9.0\ContactAgenda.exe
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\bin\Debug\net9.0\ContactAgenda.deps.json
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\bin\Debug\net9.0\ContactAgenda.runtimeconfig.json
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\bin\Debug\net9.0\ContactAgenda.dll
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\bin\Debug\net9.0\ContactAgenda.pdb
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\obj\Debug\net9.0\ContactAgenda.dll
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\obj\Debug\net9.0\refint\ContactAgenda.dll
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\obj\Debug\net9.0\ContactAgenda.pdb
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\obj\Debug\net9.0\ContactAgenda.genruntimeconfig.cache
+C:\Users\Aire\source\repos\ContactAgenda\ContactAgenda\obj\Debug\net9.0\ref\ContactAgenda.dll
