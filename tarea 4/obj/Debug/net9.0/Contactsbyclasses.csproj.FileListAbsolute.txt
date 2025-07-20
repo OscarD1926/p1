@@ -1,0 +1,14 @@
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\obj\Debug\net9.0\Contactsbyclasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\obj\Debug\net9.0\Contactsbyclasses.AssemblyInfoInputs.cache
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\obj\Debug\net9.0\Contactsbyclasses.AssemblyInfo.cs
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\obj\Debug\net9.0\Contactsbyclasses.csproj.CoreCompileInputs.cache
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\bin\Debug\net9.0\Contactsbyclasses.exe
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\bin\Debug\net9.0\Contactsbyclasses.deps.json
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\bin\Debug\net9.0\Contactsbyclasses.runtimeconfig.json
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\bin\Debug\net9.0\Contactsbyclasses.dll
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\bin\Debug\net9.0\Contactsbyclasses.pdb
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\obj\Debug\net9.0\Contactsbyclasses.dll
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\obj\Debug\net9.0\refint\Contactsbyclasses.dll
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\obj\Debug\net9.0\Contactsbyclasses.pdb
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\obj\Debug\net9.0\Contactsbyclasses.genruntimeconfig.cache
+C:\Users\Aire\source\repos\Contactsbyclasses\Contactsbyclasses\obj\Debug\net9.0\ref\Contactsbyclasses.dll
